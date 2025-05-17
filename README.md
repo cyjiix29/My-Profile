@@ -1,7 +1,7 @@
 # My Profile
 
 ## About Me
-<img src="PicNiCy2.jpg" alt="Alt Text" Width="200" heigth="100"> <br>
+<img src="IMG_20250317_205646.jpg" alt="Alt Text" Width="200" heigth="100"> <br>
 
 - Hello, I'm Cyril John P. Angeles, a first-year student enrolled in the BSIS course at City College of Angeles. 
 
