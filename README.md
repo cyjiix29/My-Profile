@@ -2,7 +2,7 @@
 
 <h6 align="center">
 Cyril John P. Angeles is a first-year college student with a strong passion for programming and technology. he has hands on experience with Java, C, and C++, and enjoys tackling challenging problems and creating innovative solutions. Driven by a desire to learn and improve, Cyril aims to become a web developer, contributing to meaningful and forward thinking projects.
-
+</h6>
 
 ## About Me
 <img src="IMG_20250317_205646.jpg" alt="Alt Text" Width="200" heigth="100"> <br>
